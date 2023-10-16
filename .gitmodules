@@ -1,0 +1,3 @@
+[submodule "hello_app"]
+	path = hello_app
+	url = https://github.com/sc30gsw/hello_app.git
