@@ -1,0 +1,3 @@
+[submodule "toy_app"]
+	path = toy_app
+	url = https://github.com/sc30gsw/toy_app.git
