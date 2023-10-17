@@ -1,6 +1,9 @@
 [submodule "hello_app"]
 	path = hello_app
 	url = https://github.com/sc30gsw/hello_app.git
+[submodule "toy_app"]
+	path = toy_app
+	url = https://github.com/sc30gsw/toy_app.git
 [submodule "sample_app"]
 	path = sample_app
 	url = https://github.com/sc30gsw/sample_app.git
